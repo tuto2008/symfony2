@@ -3,6 +3,12 @@
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
+    "authors": [
+        {
+            "name": "Luis Marcano",
+            "email": "lmarcano2008@gmail.com"
+        },
+    ],
     "autoload": {
         "psr-0": { "": "src/", "SymfonyStandard": "app/" }
     },
